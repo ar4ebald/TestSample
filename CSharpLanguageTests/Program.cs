@@ -7,6 +7,7 @@ class Program
         Console.WriteLine("Hello, git");
         Console.WriteLine("Abc");
         Console.WriteLine("ThLine ");
+        Console.WriteLine("Mamka");
     }
 }
 
